@@ -2,8 +2,8 @@
 The mobile app for Tik-Tak
 
 ## Required Software
-1. Expo Client mobile app
-  a. [iOS client:](https://apps.apple.com/app/apple-store/id982107779)
+1. Expo Client mobile app <br>
+  a. [iOS client:](https://apps.apple.com/app/apple-store/id982107779)<br>
   b. [Android client:](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www)
 2. [Expo CLI local development tool](https://docs.expo.io/get-started/installation/) 
 2. [Node.js](https://nodejs.org/en/)
